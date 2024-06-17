@@ -52,3 +52,19 @@ Submit your document and GitHub repository link through the designated platform 
 - Adherence to submission guidelines and deadlines.
 
 Note: Feel free to reach out for clarification or assistance with any aspect of the assignment.
+
+My os is windows 10. I went on installed windows 11 but I had a problem that my machine could not meet the requirements for windows 11 therefore I went up and upgrated my windows 10 to the latest version of windows 10
+
+I used this link 'https://code.visualstudio.com/Download' then selected install for windows 10,11 then x64 bit   I then selected pressed installer for windows then started installing. In the installation pert I left everything as defult
+
+I visited this link 'https://github.com/' installed github and created an account and created several repositories for my account like demo
+
+I installed python using link 'https://wwww.python.org/'.the problem was than it took too much time to install
+
+I was able to install my.sql using link 'https://dev.mysql.com/downloads/windows/installer/5.7.html' I selected (windows9x86,32-bit)MSI installer and downloaded it.it had more downloads 0f 373.7m and left other steps as default.I also went up and installed workbench 8.0CE,mysql8.0 and command line client.
+
+my extensions I did were python,pylance,intellisence and gjango
+
+
+
+
